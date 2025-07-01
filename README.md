@@ -305,7 +305,8 @@ Below are some simple definitions of terms, acronyms, companies, and projects re
 
 - **risk management**<a id="risk-management"></a>: The process of identifying potential sources of risk and attempting to mitigate them. In payments, major types of risk include credit risk, fraud, and data security.
 
-- **routing number**<a id="routing-number"></a>: Series of numbers assigned to checking accounts, savings accounts, or other accounts that identify the financial institution associated with the specific account.
+- **routing number**<a id="routing-number"></a>: Series of numbers assigned to checking accounts, savings accounts, or other accounts that identify the financial institution associated with the specific account. Also sometimes referred to as a Routing Transit Number (RTN).
+
 
 - **real-time gross settlement (RTGS)**<a id="rtgs"></a>: The continuous process of settling payments on an individual basis in real time, rather than submitting files at the end of the day or at predetermined intervals throughout the day.
 
